@@ -1,0 +1,6 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: me.pig.myfirstplugin.MyFirstPlugin
+api-version: 1.18
+authors: [ DDZaiS ]
+description: My first plugin
